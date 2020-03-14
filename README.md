@@ -1,6 +1,6 @@
 # Deploying a Flask API
 
-Build on top of this forked repository as (starter code) to containerize and deploy a Flask API to a Kubernetes cluster using Docker, AWS EKS, CodePipeline, and CodeBuild.
+Build on the starter code that provided form Udacity to containerize and deploy a Flask API to a Kubernetes cluster using Docker, AWS EKS, CodePipeline, and CodeBuild.
 
 The Flask app that will be used for in project consists of a simple API with three endpoints:
 
